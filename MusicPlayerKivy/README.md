@@ -8,8 +8,6 @@
 [![MP3 Music Player Preview](readme-images/0__0_music-player-video-preview-image-with-play.png)](https://www.youtube.com/watch?v=C_hxBw_W1bU)
 
 ## Screenshots
-<!-- - Menu ![Menu](readme-images/0__1_mp3-player.png) -->
-
 - Directories Tab
     ![Directories Tab](readme-images/0_directories_tab_0.png)
 
