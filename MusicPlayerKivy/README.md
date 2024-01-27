@@ -9,6 +9,7 @@
 
 ## Screenshots
 - Directories Tab
+
 ![Directories Tab](readme-images/0_directories_tab_0.png)
 
 - Directories Tab - selecting directories for mixed playlist
@@ -19,21 +20,25 @@
 ![Directories Tab - selecting directories for mixed playlist 2](readme-images/0_directories_tab_2_selected_items.png)
 
 - Playlist Tab with songs from single directory
+
 ![Playlist Tab with songs from single directory](readme-images/1_playlist_tab_single_dir.png)
 
 - Music Player Card
+
 ![Music Player Card](readme-images/2_player_card_1.png)
 
 - Music Player Card - with song thumbnail
+
 ![Music Player Card - with song thumbnail](readme-images/2_player_card_2_with_song_image.png)
 
 - Selected Directories Tab
 
 ![Selected Directories Tab](readme-images/3_selected_dir_tab_1.png)
-    - **Columns**
-        - `1st column` - number of songs in directory
-        - `2nd column` - number of songs that gonna be placed in a row in mixed playlist form specific directory
-        - `3rd column` - order of directory items in mixed playlist (zero configured as higher position)
+
+- **Columns**
+    - `1st column` - number of songs in directory
+    - `2nd column` - number of songs that gonna be placed in a row in mixed playlist form specific directory
+    - `3rd column` - order of directory items in mixed playlist (zero configured as higher position)
 
 - Selected Directories Tab - with enabled directories
 
