@@ -59,4 +59,4 @@
 - Settings
 
 ![Settings](readme-images/6_settings_card.png)
-    - Default number of songs that gonna be placed in a row in mixed playlist from one directory
+- Default number of songs that gonna be placed in a row in mixed playlist from one directory
