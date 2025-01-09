@@ -10,7 +10,7 @@ YouTube Manager is a console application that simplifies playlist management and
 **Application offers the following functionalities:**
 - **Sync Playlists with a Database**
 
-    Keep YouTube playlists synchronized with a local database to ensure data consistency.
+    Keep YouTube playlists synchronized with a database to ensure consistency and allow further data processing.
 
 - **Track Video and Channel Changes**
 
