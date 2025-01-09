@@ -31,4 +31,5 @@ YouTube Manager is a console application that simplifies playlist management and
 
 ## Technology used
 - Python `3.10`
+- SQLAlchemy
 - MySQL
