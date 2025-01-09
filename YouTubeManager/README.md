@@ -29,7 +29,7 @@ YouTube Manager is a console application that simplifies playlist management and
     Analyze differences between playlists to identify videos that are missing from the target playlist. This helps in deciding whether to add them.
 
 
-## Technology & Tools used
+## Technology used
 - Python `3.10`
 - SQLAlchemy
 - MySQL
